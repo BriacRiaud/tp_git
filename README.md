@@ -1,23 +1,32 @@
 # git_exo
+GQZERG
+Ce dépôt contient des exercices GQEZR exemples pour apprendre et pratiquer les commandes Git.  
+Vous y trouverez des fichiers et iQERGnstructions pour vous aider à mieux comprendre le fonctionnement de Git, la gestion de versions et la collaboratQERFGion sur GQZRGQREG projets.
 
-Ce dépôt contient des exercices et exemples pour apprendre et pratiquer les commandes Git.  
-Vous y trouverez des fichiers et instructions pour vous aider à mieux comprendre le fonctionnement de Git, la gestion de versions et la collaboration sur des projets.
-
-## Contenu
-
-- Exercices pratiques sur Git
-
-## Prérequis
+## ContenuV
+QZRGQERZG
+QERGQERGQER
+## PrérequisQZRG
 
 - Git installé sur votre machine
-- Connaissances de base en ligne de commande
+- Connaissances de base EQRDn ligne fzQERGTFQZERGQZRGde commande
 
 ## Utilisation
+Gz les instructions dans chaque dossier pour réaliser les exercices.
 
-Clonez le dépôt et suivez les instructions dans chaque dossier pour réaliser les exercices.
-
-```bash
-git clone https://github.com/votre-utilisateur/git_exo.git
+```bashEQRGQcom/votre-utilisateur/git_exo.git
 ```
-
-Bonne pratique ! changmeent
+ERG
+Bonne pratique ! changmeQERGQERGQZREG
+RZS
+GQE
+RSG
+QER
+G
+QER
+G
+QER
+GQE
+RG
+QE
+RGE
